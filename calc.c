@@ -23,7 +23,8 @@ int main(int argc, char *argv[])
         exit(1);
     }
 
-    printf("------------------------------\nThe decimal number is: %d\n", x);
+    printf("------------------------------\n"
+           "The decimal number is: %d\n", x);
     do {
         /* quotient by 'base' */
         y = x / base;
