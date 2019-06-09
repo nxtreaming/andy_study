@@ -1,4 +1,4 @@
-/* skeleton code for the conversion of decimal to octal */
+/* skeleton code for the conversion of decimal to other based number */
 /* gcc -o calc calc.c */
 #include <stdio.h>
 #include <stdlib.h>
