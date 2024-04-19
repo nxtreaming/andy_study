@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T15:54:57.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cnzCVkXl8TGzd0b1_Vqx" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T16:19:25.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="h9KlPWjuhRgRzzICggdu" version="24.2.5" type="github">
   <diagram name="Page-1" id="k95cxu96PvpANKo54gbj">
     <mxGraphModel dx="1008" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="baXqkoT-ITb4Wg0HV_Db-16" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="61" y="110" width="750" height="700" as="geometry" />
+          <mxGeometry x="100" y="110" width="722" height="700" as="geometry" />
         </mxCell>
         <mxCell id="baXqkoT-ITb4Wg0HV_Db-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;4G路由器&lt;br style=&quot;&quot;&gt;OpenWrt&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="90" y="236" width="106" height="106" as="geometry" />
+          <mxGeometry x="140" y="236" width="106" height="106" as="geometry" />
         </mxCell>
         <mxCell id="baXqkoT-ITb4Wg0HV_Db-2" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 16px;&quot;&gt;wstunnel&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;dashed=1;strokeColor=#0000FF;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="103" y="317" width="80" height="20" as="geometry" />
+          <mxGeometry x="152" y="317" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="baXqkoT-ITb4Wg0HV_Db-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;4G路由器&lt;br style=&quot;&quot;&gt;OpenWrt&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="377" y="126" width="106" height="106" as="geometry" />
+          <mxGeometry x="410" y="126" width="106" height="106" as="geometry" />
         </mxCell>
         <mxCell id="baXqkoT-ITb4Wg0HV_Db-4" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 16px;&quot;&gt;wstunnel&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;dashed=1;strokeColor=#0000FF;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="206" width="80" height="24" as="geometry" />
+          <mxGeometry x="423" y="204" width="80" height="22" as="geometry" />
         </mxCell>
         <mxCell id="baXqkoT-ITb4Wg0HV_Db-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;4G路由器&lt;br style=&quot;&quot;&gt;OpenWrt&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="675" y="236" width="108" height="108" as="geometry" />
@@ -26,16 +26,16 @@
           <mxGeometry x="694" y="316" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="baXqkoT-ITb4Wg0HV_Db-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;wstunnel Server&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Netbird Relay&lt;br&gt;202.102.13.139&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="348" y="370" width="166" height="80" as="geometry" />
+          <mxGeometry x="396" y="370" width="134" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QIEOLt8A2C5Ts_k9TT1S-1" value="202.102.13.139:101" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="380" width="104" height="20" as="geometry" />
+          <mxGeometry x="278" y="380" width="104" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QIEOLt8A2C5Ts_k9TT1S-2" value="202.102.13.139:102" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="439.25" y="340" width="110.75" height="20" as="geometry" />
+          <mxGeometry x="474.25" y="340" width="110.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QIEOLt8A2C5Ts_k9TT1S-3" value="202.102.13.139:103" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="380" width="110" height="21" as="geometry" />
+          <mxGeometry x="539" y="380" width="110" height="21" as="geometry" />
         </mxCell>
         <mxCell id="QIEOLt8A2C5Ts_k9TT1S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QIEOLt8A2C5Ts_k9TT1S-3" target="QIEOLt8A2C5Ts_k9TT1S-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bnKBnmrjRZSVHRDOUwHn-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_connection;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="123.75" y="393" width="38.5" height="34" as="geometry" />
+          <mxGeometry x="172.75" y="393" width="38.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bnKBnmrjRZSVHRDOUwHn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnKBnmrjRZSVHRDOUwHn-5" target="baXqkoT-ITb4Wg0HV_Db-4">
           <mxGeometry relative="1" as="geometry" />
@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bnKBnmrjRZSVHRDOUwHn-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_connection;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410.75" y="282" width="38.5" height="34" as="geometry" />
+          <mxGeometry x="443.75" y="282" width="38.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bnKBnmrjRZSVHRDOUwHn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnKBnmrjRZSVHRDOUwHn-14" target="baXqkoT-ITb4Wg0HV_Db-6">
           <mxGeometry relative="1" as="geometry" />
@@ -75,10 +75,10 @@
           <mxGeometry x="714.75" y="380" width="38.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bnKBnmrjRZSVHRDOUwHn-22" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 16px;&quot;&gt;netbird&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;dashed=1;strokeColor=#0000FF;fillStyle=auto;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="103" y="240" width="80" height="20" as="geometry" />
+          <mxGeometry x="154" y="240" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bnKBnmrjRZSVHRDOUwHn-24" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 16px;&quot;&gt;netbird&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;dashed=1;strokeColor=#0000FF;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="132" width="80" height="24" as="geometry" />
+          <mxGeometry x="425" y="133" width="80" height="24" as="geometry" />
         </mxCell>
         <mxCell id="bnKBnmrjRZSVHRDOUwHn-25" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 16px;&quot;&gt;netbird&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;dashed=1;strokeColor=#0000FF;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="694" y="243" width="80" height="20" as="geometry" />
@@ -165,8 +165,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bnKBnmrjRZSVHRDOUwHn-39" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="418" y="550" width="65.75" height="53" as="geometry" />
+        <mxCell id="bnKBnmrjRZSVHRDOUwHn-39" value="5G路由器" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="418" y="537" width="65.75" height="53" as="geometry" />
         </mxCell>
         <mxCell id="bnKBnmrjRZSVHRDOUwHn-55" value="X86-Ubuntu" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="425.75" y="730" width="50" height="45" as="geometry" />
@@ -175,7 +175,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bnKBnmrjRZSVHRDOUwHn-58" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_connection;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="431.13" y="480" width="38.5" height="34" as="geometry" />
+          <mxGeometry x="431.13" y="475" width="38.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bnKBnmrjRZSVHRDOUwHn-62" value="172.18.0.11" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="580" width="69" height="17" as="geometry" />
@@ -211,7 +211,7 @@
           <mxGeometry x="482.63" y="744.5" width="61" height="15.5" as="geometry" />
         </mxCell>
         <mxCell id="bnKBnmrjRZSVHRDOUwHn-74" value="172.18.0.1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="474.63" y="560" width="66.37" height="16" as="geometry" />
+          <mxGeometry x="481.63" y="560" width="66.37" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
