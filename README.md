@@ -100,12 +100,12 @@ sudo iptables -t nat -A PREROUTING -m set --match-set no_proxy_dst dst -j RETURN
 
 ```bash
 # 假设 172.18.0.5 应该使用第一个代理
-sudo iptables -t nat -A PREROUTING -s 172.18.0.3 -p tcp -j REDIRECT --to-port 12345
-sudo iptables -t nat -A PREROUTING -s 172.18.0.3 -p udp -j REDIRECT --to-port 12345
+sudo iptables -t nat -A PREROUTING -s 172.18.0.5 -p tcp -j REDIRECT --to-port 12345
+sudo iptables -t nat -A PREROUTING -s 172.18.0.5 -p udp -j REDIRECT --to-port 12345
 
 # 假设 172.18.0.6 应该使用第二个代理
-sudo iptables -t nat -A PREROUTING -s 172.18.0.4 -p tcp -j REDIRECT --to-port 12346
-sudo iptables -t nat -A PREROUTING -s 172.18.0.4 -p udp -j REDIRECT --to-port 12346
+sudo iptables -t nat -A PREROUTING -s 172.18.0.6 -p tcp -j REDIRECT --to-port 12346
+sudo iptables -t nat -A PREROUTING -s 172.18.0.6 -p udp -j REDIRECT --to-port 12346
 
 # 为其他设备重复以上配置，确保每个设备的流量转发到对应的代理端口
 ```
