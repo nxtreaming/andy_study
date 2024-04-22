@@ -110,12 +110,3 @@ sudo iptables -t nat -A PREROUTING -s 172.18.0.6 -p udp -j REDIRECT --to-port 12
 
 # 为其他设备重复以上配置，确保每个设备的流量转发到对应的代理端口
 ```
-
-### 4. 启用 IP 转发
-
-确保 IP 转发在旁路由服务器上已经启用：
-
-```bash
-echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward
-sudo sysctl -w net.ipv4.ip_forward=1
-```
